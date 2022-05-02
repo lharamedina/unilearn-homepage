@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* font-family: bold; */
+  font-family: 'Encode Sans Expanded', sans-serif;
+}
+
+/* @font-face {
+  font-family: "Bold";   
+  src: local("AkiraExpanded"),
+    url("./fonts/AkiraExpanded.otf") format("truetype");
+} */
